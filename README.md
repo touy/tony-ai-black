@@ -7,7 +7,7 @@ Paste these fields. Keep legal name visible so banks, partners, and App Store li
 
 ---
 
-## Headline (copy exactly)
+## Headline 
 
 Founder & builder | Smart vending, EV, fleet AI, Lao payments | CEO, Dorkbouakham | Artist: Tony Ai Black
 
@@ -55,7 +55,7 @@ github.com/touy · x.com/touyara
 
 ---
 
-## Featured (pin these)
+## Featured 
 
 1. This portfolio site (after you host it)
 2. LaabX on the App Store
@@ -82,18 +82,18 @@ Building and operating HM Vending, HM EVs — Laos, and HM AI / Laoapps products
 
 ---
 
-## Skills to add (type these so LinkedIn suggests them)
+## Skills 
 
 IoT · Vending Machines · Fleet Management · GPS Tracking · Node.js · TypeScript · Angular · Ionic · Capacitor · Java · PostgreSQL · Nginx · Electric Vehicles · Payments · LaoQR · Product Management · Artificial Intelligence · Embedded Systems
 
 ---
 
-## X / Twitter bio (160 characters)
+## X / Twitter bio 
 
 Founder-builder in Vientiane. Smart vending, EVs, fleet AI, Lao payments. Music as Tony Ai Black. Disrupt.
 
 ---
 
-## GitHub profile README (github.com/touy)
+## GitHub profile README 
 
 Use the file `portfolio/GITHUB_PROFILE_README.md` if you create a repo named `touy/touy`.
